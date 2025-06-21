@@ -1,7 +1,7 @@
 import './App.css'
 import ExpenseForm from './components/ExpenseForm'
 import ExpenseTable from './components/ExpenseTable'
-import { ExpenseProvider } from './context/expenseContext'
+import { ExpenseProvider } from './context/ExpenseContext'
 import { ExpensesProvider } from './context/ExpensesContext'
 import { RowIdProvider } from './context/RowIdContext'
 import { IsEditableExpenseProvider } from './context/IsEditableExpenseContext'
